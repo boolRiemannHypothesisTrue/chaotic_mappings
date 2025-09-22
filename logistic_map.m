@@ -83,3 +83,10 @@ for n = 1:N-1
     
     pause(0.3); % пауза между шагами
 end
+
+
+
+
+%%
+
+logistic_map_interactive
